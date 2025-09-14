@@ -1,7 +1,3 @@
-here you go, boss — paste this into `README.md`:
-
----
-
 # CS5710 — Homework 1 (Q7): Linear Regression — Normal Equation vs Gradient Descent
 
 **Student:** Hemanth Vamsi Krishna Devadula (700773640)
@@ -123,8 +119,3 @@ Both the Normal Equation and Gradient Descent recover virtually the same linear 
 * [x] Parameters reported and short comparison included
 * [x] Demo video link added to this README and submitted on BB
 
----
-
-## 12) Academic integrity
-
-This is my own work for CS5710 Homework 1 (Q7). Standard formulas (Normal Equation, MSE, gradient) are from common ML references and course materials.
